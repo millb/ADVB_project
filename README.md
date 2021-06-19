@@ -1,5 +1,5 @@
 # ADVB_project
 
-### preprocessing - исследование и чистка данных
-### response_models - построение моделей
-### wb - интерфейс
+### preprocessing.ipynb - исследование и чистка данных
+### response_models.ipynb - построение моделей
+### wb.ipynb - интерфейс
